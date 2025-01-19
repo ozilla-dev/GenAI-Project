@@ -8,6 +8,7 @@ __pycache__/
 
 # Venv
 GenAI4
+.venv
 
 # Distribution / packaging
 .Python
