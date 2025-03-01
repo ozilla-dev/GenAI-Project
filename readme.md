@@ -1,7 +1,6 @@
 # Project Overview
 This is a personal project aimed at learning and experimenting with Large Language Models, text-to-image generation, and APIs. Because of this, it may have limitations with the LLM and text-to-image model used.
 
-
 # How to run
 First of all, you need an access token from HuggingFace to run the Large Language Model.
 
@@ -17,3 +16,12 @@ When you have ran all the code blocks, you should see an interface. This interfa
 
 # Runtime requirements
 This was tested on Python 3.11.9 on a local computer with a RTX 3070 8GB VRAM and 48 GBs of RAM, as well as on a Google Colab runtime using the T4 GPUs. So anyone should be able to run this code if they make use of Google Colab.
+
+# Good Examples
+![image](https://github.com/user-attachments/assets/6190cb81-446d-405d-9f9f-95fa88b30dd5)
+![image](https://github.com/user-attachments/assets/40369120-7432-4f2d-874e-1a92aa9223ca)
+
+# Limitations
+In these two images, the models do not follow the instructions well. This is likely due to the model performance/complexity:
+![image](https://github.com/user-attachments/assets/30478125-e6fa-4042-a51d-4097dd3d3500)
+![image](https://github.com/user-attachments/assets/f1e42543-cf06-4aa7-8c1c-13ca0dc0ac0b)
